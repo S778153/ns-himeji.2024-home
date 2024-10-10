@@ -142,9 +142,8 @@ body {
     }
 
     .hhonbun img {
-        height: 2.6rem;
-        padding-top: 2.5px;
-        padding-bottom: 0;
+        height: 2.8rem;
+        vertical-align:top;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -386,9 +385,8 @@ screen and (min-width: 961px) {
     }
 
     .hhonbun img {
-        height: 2.6rem;
-        padding-top: 2.5px;
-        padding-bottom: 0;
+        height: 2.8rem;
+        vertical-align:top;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -408,9 +406,8 @@ screen and (min-width: 961px) {
     }
 
     .hhonbuntime img {
-        height: 2.6rem;
-        padding-top: 2.5px;
-        padding-bottom: 0;
+        height: 2.8rem;
+        vertical-align:top;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -430,9 +427,8 @@ screen and (min-width: 961px) {
     }
 
     .hhonbunadd img {
-        height: 2.6rem;
-        padding-top: 2.5px;
-        padding-bottom: 0;
+        height: 2.8rem;
+        vertical-align:top;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -457,9 +453,8 @@ screen and (min-width: 961px) {
     }
 
     .hhonbunaiu img {
-        height: 2.6rem;
-        padding-top: 2.5px;
-        padding-bottom: 0;
+        height: 2.8rem;
+        vertical-align:top;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
