@@ -141,6 +141,15 @@ body {
         font-size: 2.8rem;  
     }
 
+    .hhonbun img {
+        height: 2.6rem;
+        padding-top: 2.5px;
+        padding-bottom: 0;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
+    }
+
     .allsita {
         width: 96%;
         color: #000;
@@ -376,6 +385,15 @@ screen and (min-width: 961px) {
         font-size: 2.8rem;  
     }
 
+    .hhonbun img {
+        height: 2.6rem;
+        padding-top: 2.5px;
+        padding-bottom: 0;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
+    }
+
     .hhonbuntime {
         width: 96%;
         margin: auto;
@@ -389,6 +407,15 @@ screen and (min-width: 961px) {
         font-size: 2.8rem;  
     }
 
+    .hhonbuntime img {
+        height: 2.6rem;
+        padding-top: 2.5px;
+        padding-bottom: 0;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
+    }
+
     .hhonbunadd {
         width: 96%;
         margin: auto;
@@ -400,6 +427,15 @@ screen and (min-width: 961px) {
 
     .hhonbunadd p span {
         font-size: 2.8rem;
+    }
+
+    .hhonbunadd img {
+        height: 2.6rem;
+        padding-top: 2.5px;
+        padding-bottom: 0;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
     }
 
     .hhonbunadd iframe {
@@ -418,6 +454,15 @@ screen and (min-width: 961px) {
 
     .hhonbunaiu p span {
         font-size: 2.8rem;
+    }
+
+    .hhonbunaiu img {
+        height: 2.6rem;
+        padding-top: 2.5px;
+        padding-bottom: 0;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
     }
 
     .hhonbunaiup {
