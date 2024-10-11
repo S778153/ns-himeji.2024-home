@@ -144,6 +144,7 @@ body {
     .hhonbun img {
         height: 2.8rem;
         vertical-align:top;
+        margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -387,6 +388,7 @@ screen and (min-width: 961px) {
     .hhonbun img {
         height: 2.8rem;
         vertical-align:top;
+        margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -408,6 +410,7 @@ screen and (min-width: 961px) {
     .hhonbuntime img {
         height: 2.8rem;
         vertical-align:top;
+        margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -429,6 +432,7 @@ screen and (min-width: 961px) {
     .hhonbunadd img {
         height: 2.8rem;
         vertical-align:top;
+        margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
@@ -455,6 +459,7 @@ screen and (min-width: 961px) {
     .hhonbunaiu img {
         height: 2.8rem;
         vertical-align:top;
+        margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
