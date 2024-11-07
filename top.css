@@ -398,16 +398,16 @@ screen and (min-width: 961px) {
         width: 70%;
         margin: auto;
         padding-top: 0.1px;
-        text-align: center;
         font-family: "Myfont3", "Myfont4", 'Arial', sans-serif;
         font-size: 2.2rem;
     }
 
-    .spantime1 {
+    .hhonbuntime p .spantime1 {
+        text-align: center;
         font-size: 2.8rem;  
     }
 
-    .spantime2 {
+    .hhonbuntime p .spantime2 {
         text-align: left;
         font-size: 2.2rem;  
     }
