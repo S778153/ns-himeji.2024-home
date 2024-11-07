@@ -395,17 +395,21 @@ screen and (min-width: 961px) {
     }
 
     .hhonbuntime {
-        width: 75%;
+        width: 70%;
         margin: auto;
-        text-align: left;
         padding-top: 0.1px;
         font-family: "Myfont3", "Myfont4", 'Arial', sans-serif;
         font-size: 2.2rem;
     }
 
-    .hhonbuntime p span {
+    .spantime1 {
         text-align: center;
         font-size: 2.8rem;  
+    }
+
+    .spantime2 {
+        text-align: left;
+        font-size: 2.2rem;  
     }
 
     .hhonbuntime img {
